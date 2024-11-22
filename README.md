@@ -1,6 +1,9 @@
 # First-Person-Shooter
 This is one of my best starting attempts at making a first person shooter game. Although there are still a lot of bugs, I am proud of what I have developed. </br>
 
+Run FPS3.exe to play the game. It can be found in FPS3-build
+
+Download the zip file for the source code and all assets used
 # Controls : 
 
 WASD for momvement, shift for crouch</br>
