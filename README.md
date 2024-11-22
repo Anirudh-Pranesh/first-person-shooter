@@ -3,7 +3,7 @@ This is one of my best starting attempts at making a first person shooter game. 
 
 Run FPS3.exe to play the game. It can be found in FPS3-build
 
-Download the zip file for the source code and all assets used
+Can't upload the whole zip file for the project because i ran out of LFS data packs. Here is my source scripts for it instead
 # Controls : 
 
 WASD for momvement, shift for crouch</br>
