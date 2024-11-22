@@ -4,6 +4,11 @@ This is one of my best starting attempts at making a first person shooter game. 
 Run FPS3.exe to play the game. It can be found in FPS3-build
 
 Can't upload the whole zip file for the project because i ran out of LFS data packs. Here is my source scripts for it instead
+
+![Untitled video - Made with Clipchamp (2)](https://github.com/user-attachments/assets/fd272be1-3265-4132-9f4b-647dc9362d08)
+
+![Untitled video - Made with Clipchamp (1) (1)](https://github.com/user-attachments/assets/0a64a1e5-bc08-4e5e-89ff-3f2a6e5c2cc2)
+
 # Controls : 
 
 WASD for momvement, shift for crouch</br>
